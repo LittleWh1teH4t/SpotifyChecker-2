@@ -10,7 +10,7 @@ pip install colorama
 pip install beautifulsoup4
 ```
 ## Usage
-1. Visit [this url](https://accounts.spotify.com/en/login/) and look for a cookie called `__bon`
+1. Visit [this url](https://accounts.spotify.com/en/login/) and look for a cookie called `__bon`   
 ![](https://a.cozy.cat/igxzx.png)
 2. Replace `putyourownbonhere` in the `cookie` payload with the `__bon` cookie you got earlier
 3. Make a new file called `accounts.txt` and put your account list in there, formatted as `user:pass`
